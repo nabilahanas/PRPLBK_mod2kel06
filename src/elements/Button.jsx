@@ -1,8 +1,8 @@
 import styled, { css } from 'styled-components';
 
 export default styled.button`
-    font-family: 'roboto';
-    font-size:1.3rem;
+    font-family: 'arial';
+    font-size:1rem;
     border:none;
     border-radius:5px;
     padding:7px 10px;

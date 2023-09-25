@@ -46,9 +46,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <ReactJSX />
-        <div className="Components">
-          <Profile />
-        </div>
+        <Profile />
         <form action="" onSubmit={handleSubmit}>
           <TextInput border="#61dafb" placeholder="Nama" value={name} onChange={handleNameChange} />
           <Button background="black" type='submit'>Kirim</Button>

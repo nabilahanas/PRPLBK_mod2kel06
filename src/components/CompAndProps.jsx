@@ -18,10 +18,10 @@ export default class CompAndProps extends Component {
         }
         return (
             <div className="wrapper">
-                <div className="" style={bgColor}>
+                <div className="User-info" style={bgColor}>
                     <Square komponen='kiri' link='/kiri' />
                 </div>
-                <div className="wrapper" style={bgColor}>
+                <div className="User-info" style={bgColor}>
                     <Square komponen='kanan' link='/kanan' />
                 </div>
             </div>

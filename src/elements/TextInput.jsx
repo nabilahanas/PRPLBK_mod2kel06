@@ -3,8 +3,8 @@
 import styled, { css, ThemeProvider } from 'styled-components';
 
 export default styled.input`
-font-family: 'roboto';
-font-size:1.3rem;
+font-family: 'arial';
+font-size:1rem;
 border:2px solid;
 border-radius:5px;
 padding:7px 10px;
